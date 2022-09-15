@@ -30,3 +30,21 @@
     
    📌 Optimized Method ➖ Using Dynamic Programming . 
 
+
+
+
+   ### Now we will focus on , how to solve MCM using parallel compution . 
+
+   🔲 Aim : 
+    📌 Understanding how parallel component can be added in this problem.
+    📌 Understanding working of MCM using different processors.
+    📌 Understanding how task can be divided among the processors , so that total speed and efficiency of program will be increased.
+
+
+
+
+   🎗️ MCM Visualization for 4 Processors.
+   <a>Hello</a>
+
+
+
