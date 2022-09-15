@@ -62,4 +62,4 @@ https://cs.iupui.edu/~fgsong/LearnHPC/summa/index.html
 
 
 
-<img src="images/img.png" alt="img" title="Image">
+<img src="/images/img.png" alt="img" title="Image">
