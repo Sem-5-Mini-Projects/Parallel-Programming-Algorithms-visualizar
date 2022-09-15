@@ -23,5 +23,10 @@
    5) ((((A1A2))A3)A4)
 
 
-  
+  ## Different Methods to solve MCM
+   📌 Brute Force ➖ Compute the normal matrix multiplication on every possible combination out of given matrices.
+
+
+    
+   📌 Optimized Method ➖ Using Dynamic Programming . 
 
