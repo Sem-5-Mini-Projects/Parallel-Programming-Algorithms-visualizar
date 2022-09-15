@@ -57,3 +57,4 @@ Following is the basic model for computing matrix chain product on parallel mach
 # 🎗️ MCM Visualization for 4 number of processors.
 
 
+https://cs.iupui.edu/~fgsong/LearnHPC/summa/index.html
