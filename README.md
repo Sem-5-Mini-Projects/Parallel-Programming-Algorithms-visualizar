@@ -39,11 +39,10 @@ Following are the different ways to compute the final answer : -
 
 # 🎗️ MCM Visualization for 4 number of processors.
 
-    https://cs.iupui.edu/~fgsong/Learn![Root M=M1  M2]
+    https://cs.iupui.edu/~fgsong/Learn!
     
     
-    (https://user-images.githubusercontent.com/85820206/190407113-d192d60c-9be0-4180-a356-f7fbde9bc1ec.png)
-HPC/summa/index.html
+ 
     
     
     
