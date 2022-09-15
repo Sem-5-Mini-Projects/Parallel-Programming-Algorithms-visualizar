@@ -37,6 +37,26 @@ Following are the different ways to compute the final answer : -
 <br>
 📌 Understanding how task can be divided among the processors , so that total speed and efficiency of program will be increased.
 
+
+
+
+### 📌 General Idea:-
+
+Let's say M = (M1*M2) * (M3*M4)
+
+Following is the basic model for computing matrix chain product on parallel machine .
+
+
+
+
+
+
+
+
+
 # 🎗️ MCM Visualization for 4 number of processors.
 
     https://cs.iupui.edu/~fgsong/LearnHPC/summa/index.html
+
+
+
