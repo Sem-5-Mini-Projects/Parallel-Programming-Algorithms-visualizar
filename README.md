@@ -44,7 +44,7 @@
 
 
    # 🎗️ MCM Visualization for 4 Processors.
-    (https://cs.iupui.edu/~fgsong/LearnHPC/summa/index.html)
+    https://cs.iupui.edu/~fgsong/LearnHPC/summa/index.html
 
 
 
