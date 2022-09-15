@@ -48,6 +48,8 @@ Let's say M = (M1*M2) * (M3*M4)
 
 Following is the basic model for computing matrix chain product on parallel machine .
 
+![Image](img1.png)
+
 
 
 
@@ -61,8 +63,18 @@ Following is the basic model for computing matrix chain product on parallel mach
 
 https://cs.iupui.edu/~fgsong/LearnHPC/summa/index.html
 <br>
+<br>
 
-![Image](img1.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
