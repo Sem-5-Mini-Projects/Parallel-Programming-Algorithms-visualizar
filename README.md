@@ -58,3 +58,8 @@ Following is the basic model for computing matrix chain product on parallel mach
 
 
 https://cs.iupui.edu/~fgsong/LearnHPC/summa/index.html
+
+
+
+
+<img src="images/img.png" alt="img" title="Image">
