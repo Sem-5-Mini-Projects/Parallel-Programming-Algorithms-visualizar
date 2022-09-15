@@ -37,7 +37,9 @@
 
    🔲 Aim : 
     📌 Understanding how parallel component can be added in this problem.
+    <br>
     📌 Understanding working of MCM using different processors.
+    <br>
     📌 Understanding how task can be divided among the processors , so that total speed and efficiency of program will be increased.
 
 
