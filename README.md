@@ -39,7 +39,7 @@ Following are the different ways to compute the final answer : -
 
 # 🎗️ MCM Visualization for 4 number of processors.
 
-    https://cs.iupui.edu/~fgsong/Learn!
+    https://cs.iupui.edu/~fgsong/LearnHPC/summa/index.html
     
     
  
