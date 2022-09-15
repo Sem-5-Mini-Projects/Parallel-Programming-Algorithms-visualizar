@@ -1,6 +1,6 @@
 # Parallel-Programming-Algorithms-visualizar
 
-![Image](img1.png)
+
 
 # Algorithm 1 :- Matrix Chain Multiplication
 
@@ -60,9 +60,12 @@ Following is the basic model for computing matrix chain product on parallel mach
 
 
 https://cs.iupui.edu/~fgsong/LearnHPC/summa/index.html
-
-
-
-
 <br>
+
+![Image](img1.png)
+
+
+
+
+
 
