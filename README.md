@@ -1,5 +1,7 @@
 # Parallel-Programming-Algorithms-visualizar
 
+![Image](img1.png)
+
 # Algorithm 1 :- Matrix Chain Multiplication
 
 ✔️ What is Matrix Chain Multiplication (MCM) ?
@@ -63,4 +65,4 @@ https://cs.iupui.edu/~fgsong/LearnHPC/summa/index.html
 
 
 <br>
-![Image](img1.png)
+
