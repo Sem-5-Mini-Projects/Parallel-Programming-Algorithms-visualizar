@@ -63,4 +63,4 @@ https://cs.iupui.edu/~fgsong/LearnHPC/summa/index.html
 
 
 <br>
-![Image](images/img1.png "Title")
+![Image](./images/img1.png)
