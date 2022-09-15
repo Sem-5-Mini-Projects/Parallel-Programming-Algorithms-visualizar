@@ -43,7 +43,7 @@
 
 
 
-   # 🎗️ MCM Visualization for 4 Processors.
+   # 🎗️ MCM Visualization for 4 number of processors.
     https://cs.iupui.edu/~fgsong/LearnHPC/summa/index.html
 
 
